@@ -1,0 +1,40 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;  
+    color: #2c3e50;                   
+    font-size: 2.5em; /*aumenta o título*/
+    justify-content: center;
+    margin-top: 20px; /*espaço acima do título*/
+    margin-bottom: 20px; /*espaço abaixo do título*/
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.2);  /*sombra*/
+}
+
+button{
+    padding: 15px 25px;
+    justify-items: center;
+    border-radius: 10px;
+    font-size: 1rem;
+    color: black;
+    background: white;
+    cursor: pointer;
+    transition: transform 0.2s, background 0.3s;
+}
+
+body{
+    font-family: 'Lora', serif;
+    background: #E6E6FA;
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center; /* Alinha verticalmente */
+    height: 100vh; /* Faz o body ocupar a altura total da tela */
+    margin: 0; /* Remove margem padrão */
+    flex-direction: column; /* Organiza os elementos em coluna */
+    text-align: center; /* Centraliza o texto */ 
+}
+
+table {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 20px; /* Espaço acima da tabela */
+}
