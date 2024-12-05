@@ -1,7 +1,6 @@
 const output = document.getElementById("output")
 
 function mostrarTabuada(){
-    //output.innerHTML = "valor qualquer"
 
     let n = prompt("Digite um número")
 
