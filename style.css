@@ -1,9 +1,9 @@
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     color: #2c3e50;                   
-    font-size: 2.5em; /*aumenta o título*/
-    margin-top: 20px; /*espaço acima do título*/
-    margin-bottom: 20px; /*espaço abaixo do título*/
+    font-size: 2.5em; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
 }
 
 button{ 
@@ -19,10 +19,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background: #E6E6FA;
     display: flex;   
-    align-items: center; /* Alinha verticalmente */
-    height: 100vh; /* Faz o body ocupar a altura total da tela */  
-    flex-direction: column; /* Organiza os elementos em coluna */
-    text-align: center; /* Centraliza o texto */ 
+    align-items: center;
+    height: 100vh; 
+    flex-direction: column; 
+    text-align: center;
 }
 
 .image{
